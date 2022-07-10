@@ -2,3 +2,5 @@ WPA RESOLUSI
 - Belajar Git dan Github
 - Belajar PHP
 - Belajar Data Analyst Python
+- Bikin website portfolio
+- Bikin data analyst portfolio
