@@ -3,5 +3,6 @@ RENCANA BELAJAR WPA
 - CSS
 - Javascript
   *JQuery
+- JQuery new
 - PHP
 - Coba
