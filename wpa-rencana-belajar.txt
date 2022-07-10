@@ -4,6 +4,7 @@ RENCANA BELAJAR WPA
 - Javascript
   * JQuery
     ^ Vue
+    ^ React
 - JQuery new
 - PHP
   ^ Laravel
