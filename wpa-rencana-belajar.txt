@@ -2,7 +2,10 @@ RENCANA BELAJAR WPA
 - CSS 3
 - CSS
 - Javascript
-  *JQuery
+  * JQuery
+    ^ Vue
 - JQuery new
 - PHP
+  ^ Laravel
 - Coba
+- Python
